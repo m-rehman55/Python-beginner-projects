@@ -70,4 +70,3 @@ View all saved contacts
 
 📌 Feel free to give feedback or suggest improvements!
 
-#Python #MiniProject #Beginners #PythonProjects #ContactBook #Programming #CodeNewbie #LinkedInLearning #PortfolioProject #PythonForBeginners
