@@ -47,3 +47,27 @@ Tuple usage for data records
 Basic analytics capabilities
 
 Education tech potential
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+THIRD PROJECT:
+🚀 My Third Python Mini Project – Contact Book App
+
+I have started learning Python, and this is my first basic project using only Strings, Lists, and Tuples (no functions yet).
+
+🔹 Features:
+
+Add a new contact (Name, Phone, Email)
+
+Search a contact by name
+
+Delete a contact
+
+View all saved contacts
+
+🧠 This project is useful in basic CRM systems, HR tools, or personal productivity apps.
+
+🔧 Built without using def, only with raw logic — to keep it beginner-friendly.
+
+📌 Feel free to give feedback or suggest improvements!
+
+#Python #MiniProject #Beginners #PythonProjects #ContactBook #Programming #CodeNewbie #LinkedInLearning #PortfolioProject #PythonForBeginners
